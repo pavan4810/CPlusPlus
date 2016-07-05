@@ -3,6 +3,12 @@
 
 using namespace std;
 
+// Notes: 002: Data types
+// Notes: ===============
+// Notes:   In C++, you can still use C data types, comments, variables,
+// Notes:   decisions and loops.
+// Notes:
+
 int main(void)
 {
   // can still use C data types.

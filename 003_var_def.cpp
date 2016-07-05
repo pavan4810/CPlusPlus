@@ -3,6 +3,15 @@
 
 using namespace std;
 
+// Notes: 003: Variable definition
+// Notes: ========================
+// Notes:   In C++, you can declare variables the same as C.
+// Notes:   In C++, you may declare variables anywhere you want.
+// Notes:
+// Notes:   In C++, you can declare/define variable inside for loop header.
+// Notes:   but, it's scope is same as scope of for loop.
+// Notes:
+
 int main(void)
 {
   int i;
