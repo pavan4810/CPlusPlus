@@ -4,7 +4,7 @@
 using namespace std;
 
 // Notes:
-// Notes: 011: Three sections of a Class
+// Notes: 012: Three sections of a Class
 // Notes: ==============================
 // Notes:
 // Notes:   Public, protected and private are the three sections available
